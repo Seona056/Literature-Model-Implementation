@@ -1,7 +1,11 @@
 # 목차
 
-1. [[Implementation] ResNet Ablation Study]([implementation]-resnet-ablation-study)  
-2. [[Implementation] ResNet CIFAR-10 and Analysis]([implementation]-resnet-cifar-10-and-analysis)  
+1. [[Implementation] ResNet Ablation Study ](#implementation-resnet-ablation-study)  
+   - [개선 사항 1](#개선-사항-1)
+   - [개선 사항 2](#개선-사항-2)
+   - [개선 사항 3](#개선-사항-3)
+ 
+2. [[Implementation] ResNet CIFAR-10 and Analysis ](#implementation-resnet-cifar-10-and-analysis)  
 
 
 <br>
@@ -62,7 +66,7 @@ plot_model(모델명)
 <br><br>
 
 ---
-# [Implementation] 📊 ResNet CIFAR-10 and Analysis
+# [Implementation] ResNet CIFAR-10 and Analysis
 
 <br>
 
