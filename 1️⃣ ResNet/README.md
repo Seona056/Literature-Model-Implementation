@@ -5,8 +5,8 @@
    - [개선 사항 2](#개선-사항-2)
    - [개선 사항 3](#개선-사항-3)
       - [Model Architecture 수정 사항 ](#model-architecture-수정-사항)<br>
-      [3-1. Aiffel Going Deeper 프로젝트 제출 당시의 `plot_model()` 출력 결과 ](#3-1-aiffel-going-deeper-프로젝트-제출-당시의-plot-model-출력-결과)<br>
-      [3-2. 수정된 `plot_model()` 출력 결과 ](#3-2-수정된-plot-model-출력-결과)
+      3-1. Aiffel Going Deeper 프로젝트 제출 당시의 `plot_model()` 출력 결과<br>
+      3-2. 수정된 `plot_model()` 출력 결과
    - [개선 사항 4](#개선-사항-4)
  
 2. [[Implementation] ResNet CIFAR-10 and Analysis ](#implementation-resnet-cifar-10-and-analysis)  
@@ -76,15 +76,25 @@ plot_model(모델명)
 
 <br>
 
-**3-1-1) ResNet-34**
+<details>
+   <summary><b>3-1-1) ResNet-34</b> (👈 그림 ✔ 토글을 눌러주세요)</summary>
+<div markdown="1">
 
 ![](https://velog.velcdn.com/images/seona056/post/8bcdd197-64b8-4c24-93ac-23bae2d5c221/image.png)
 
+</div>
+</details>
+
 <br>
 
-**3-1-2) ResNet-50**
+<details>
+   <summary><b>3-1-2) ResNet-50</b> (👈 그림 ✔ 토글을 눌러주세요)</summary>
+<div markdown="1">
 
 ![](https://velog.velcdn.com/images/seona056/post/1dbdf972-1a39-4fda-9b79-60130d1b197a/image.png)
+
+</div>
+</details>
 
 <br>
 
@@ -96,15 +106,25 @@ plot_model(모델명)
 
 <br>
 
-**3-2-1) ResNet-34**
+<details>
+   <summary><b>3-2-1) ResNet-34</b> (👈 그림 ✔ 토글을 눌러주세요)</summary>
+<div markdown="1">
 
 ![](https://velog.velcdn.com/images/seona056/post/548910ce-cd36-4e33-be3b-fa1d77190026/image.png)
 
+</div>
+</details>
+
 <br>
 
-**3-2-2) ResNet-50**
+<details>
+   <summary><b>3-2-2) ResNet-50</b> (👈 그림 ✔ 토글을 눌러주세요)</summary>
+<div markdown="1">
 
 ![](https://velog.velcdn.com/images/seona056/post/5a296219-b41e-464d-b275-131e00724c0f/image.png)
+
+</div>
+</details>
 
 <br>
 
